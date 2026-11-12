@@ -1,0 +1,80 @@
+{"query_id": "q0001", "type": "directives", "from": "a0003", "to": "c0011"}
+{"query_id": "q0002", "type": "directives", "from": "c0001", "to": "c0010"}
+{"query_id": "q0003", "type": "directives", "from": "c0004", "to": "c0003"}
+{"query_id": "q0004", "type": "directives", "from": "a0010", "to": "c0001"}
+{"query_id": "q0005", "type": "directives", "from": "c0009", "to": "c0001"}
+{"query_id": "q0006", "type": "directives", "from": "a0002", "to": "c0015"}
+{"query_id": "q0007", "type": "directives", "from": "a0002", "to": "c0020"}
+{"query_id": "q0008", "type": "directives", "from": "c0011", "to": "c0004"}
+{"query_id": "q0009", "type": "directives", "from": "a0008", "to": "c0012"}
+{"query_id": "q0010", "type": "directives", "from": "c0021", "to": "c0019"}
+{"query_id": "q0011", "type": "directives", "from": "a0002", "to": "c0013"}
+{"query_id": "q0012", "type": "directives", "from": "c0018", "to": "c0008"}
+{"query_id": "q0013", "type": "alias", "company": "c0004"}
+{"query_id": "q0014", "type": "alias", "company": "c0006"}
+{"query_id": "q0015", "type": "alias", "company": "c0012"}
+{"query_id": "q0016", "type": "alias", "company": "c0002"}
+{"query_id": "q0017", "type": "alias", "company": "c0005"}
+{"query_id": "q0018", "type": "alias", "company": "c0020"}
+{"query_id": "q0019", "type": "alias", "company": "c0009"}
+{"query_id": "q0020", "type": "alias", "company": "c0010"}
+{"query_id": "q0021", "type": "alias", "company": "c0014"}
+{"query_id": "q0022", "type": "alias", "company": "c0016"}
+{"query_id": "q0023", "type": "commanders", "target": "c0001"}
+{"query_id": "q0024", "type": "commanders", "target": "c0002"}
+{"query_id": "q0025", "type": "commanders", "target": "c0003"}
+{"query_id": "q0026", "type": "commanders", "target": "c0005"}
+{"query_id": "q0027", "type": "commanders", "target": "c0007"}
+{"query_id": "q0028", "type": "commanders", "target": "c0009"}
+{"query_id": "q0029", "type": "commanders", "target": "c0010"}
+{"query_id": "q0030", "type": "commanders", "target": "c0011"}
+{"query_id": "q0031", "type": "commanders", "target": "c0012"}
+{"query_id": "q0032", "type": "commanders", "target": "c0013"}
+{"query_id": "q0033", "type": "commanders", "target": "c0015"}
+{"query_id": "q0034", "type": "commanders", "target": "c0016"}
+{"query_id": "q0035", "type": "commanders", "target": "c0017"}
+{"query_id": "q0036", "type": "commanders", "target": "c0018"}
+{"query_id": "q0037", "type": "commanders", "target": "c0019"}
+{"query_id": "q0038", "type": "commanders", "target": "c0020"}
+{"query_id": "q0039", "type": "commanders", "target": "c0021"}
+{"query_id": "q0040", "type": "commanders", "target": "c0022"}
+{"query_id": "q0041", "type": "commanders", "target": "c0006"}
+{"query_id": "q0042", "type": "commanders", "target": "c0008"}
+{"query_id": "q0043", "type": "commanders", "target": "c0004"}
+{"query_id": "q0044", "type": "commanders", "target": "c0014"}
+{"query_id": "q0045", "type": "commands", "source": "c0017"}
+{"query_id": "q0046", "type": "commands", "source": "c0022"}
+{"query_id": "q0047", "type": "commands", "source": "a0001"}
+{"query_id": "q0048", "type": "commands", "source": "a0002"}
+{"query_id": "q0049", "type": "commands", "source": "a0003"}
+{"query_id": "q0050", "type": "commands", "source": "a0004"}
+{"query_id": "q0051", "type": "commands", "source": "c0002"}
+{"query_id": "q0052", "type": "commands", "source": "c0021"}
+{"query_id": "q0053", "type": "commands", "source": "c0006"}
+{"query_id": "q0054", "type": "commands", "source": "c0014"}
+{"query_id": "q0055", "type": "commands", "source": "c0007"}
+{"query_id": "q0056", "type": "commands", "source": "c0010"}
+{"query_id": "q0057", "type": "commands", "source": "c0005"}
+{"query_id": "q0058", "type": "commands", "source": "c0013"}
+{"query_id": "q0059", "type": "apex", "target": "c0001"}
+{"query_id": "q0060", "type": "apex", "target": "c0002"}
+{"query_id": "q0061", "type": "apex", "target": "c0003"}
+{"query_id": "q0062", "type": "apex", "target": "c0005"}
+{"query_id": "q0063", "type": "apex", "target": "c0007"}
+{"query_id": "q0064", "type": "apex", "target": "c0009"}
+{"query_id": "q0065", "type": "apex", "target": "c0010"}
+{"query_id": "q0066", "type": "apex", "target": "c0011"}
+{"query_id": "q0067", "type": "apex", "target": "c0012"}
+{"query_id": "q0068", "type": "apex", "target": "c0013"}
+{"query_id": "q0069", "type": "apex", "target": "c0015"}
+{"query_id": "q0070", "type": "apex", "target": "c0016"}
+{"query_id": "q0071", "type": "apex", "target": "c0017"}
+{"query_id": "q0072", "type": "apex", "target": "c0018"}
+{"query_id": "q0073", "type": "apex", "target": "c0019"}
+{"query_id": "q0074", "type": "apex", "target": "c0020"}
+{"query_id": "q0075", "type": "apex", "target": "c0021"}
+{"query_id": "q0076", "type": "apex", "target": "c0022"}
+{"query_id": "q0077", "type": "apex", "target": "c0004"}
+{"query_id": "q0078", "type": "apex", "target": "c0008"}
+{"query_id": "q0079", "type": "apex", "target": "c0006"}
+{"query_id": "q0080", "type": "apex", "target": "c0014"}
